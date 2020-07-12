@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+#### I'm SangHyun Park
+
+- I'm currently doing my Military Service in Chungju, South Korea (~ 2021. 01. 18).
+
+- I'm a passionate Computer Science undergraduate student!
+
+- I'm interested in **Algorithm Theories** & **Problem Solving**.
+
+- I have a [git-blog](https://hy38.github.io/) that posts what I study.
+
 <!--
 **hy38/hy38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
