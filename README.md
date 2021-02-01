@@ -2,11 +2,9 @@
 
 #### I'm SangHyun Park
 
-- I'm currently doing my Military Service in Chungju, South Korea (~ 2021. 01. 18).
+- I'm an undergraduate student majoring Computer Science in CNU!
 
-- I'm a passionate Computer Science undergraduate student!
-
-- I'm interested in **Algorithm Theories** & **Problem Solving**.
+- I'm currently interested in **Algorithm Theories & Problem Solving**.
 
 - I have a [git-blog](https://hy38.github.io/) that posts what I study.
 
