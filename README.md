@@ -4,7 +4,7 @@
 
 - I'm an undergraduate student majoring Computer Science in CNU!
 
-- I'm currently interested in **Algorithm Theories & Problem Solving**.
+- I'm currently interested in **Algorithm Theories**.
 
 - I have a [git-blog](https://hy38.github.io/) that posts what I study.
 
