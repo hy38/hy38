@@ -8,6 +8,9 @@
 
 - I have a [git-blog](https://hy38.github.io/) that posts what I study.
 
+
+![hy38's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy38&show_icons=true)
+
 <!--
 **hy38/hy38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
