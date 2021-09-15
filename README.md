@@ -2,12 +2,7 @@
 
 #### I'm SangHyun Park
 
-- I'm an undergraduate student majoring Computer Science in CNU!
-
-- I'm currently interested in **Algorithm Theories**.
-
-- I have a [git-blog](https://hy38.github.io/) that posts what I study.
-
+- I'm an undergraduate student majoring Computer Science in CNU.
 
 ![hy38's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy38&show_icons=true)
 
