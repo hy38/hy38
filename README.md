@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm SangHyun Park
+#### I'm Sanghyun Park
 
 - I'm an undergraduate student majoring Computer Science in CNU.
 
