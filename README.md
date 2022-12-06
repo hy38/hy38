@@ -3,6 +3,7 @@
 #### I'm Sanghyun Park
 
 - I'm an undergraduate student majoring Computer Science in CNU.
+- I'll be an M.S. student KAIST SoC.
 
 ![hy38's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy38&show_icons=true)
 
