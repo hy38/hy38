@@ -3,9 +3,10 @@
 #### I'm Sanghyun Park
 
 - I'm an undergraduate student majoring Computer Science in CNU.
-- I'll be an M.S. student KAIST SoC starting from 2023 Spring.
+- I'll be an M.S. student @ KAIST SoC starting from 2023 Spring.
 
-![hy38's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy38&show_icons=true)
+
+<!-- ![hy38's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy38&show_icons=true) -->
 
 <!--
 **hy38/hy38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
