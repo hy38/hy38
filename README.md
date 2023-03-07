@@ -2,8 +2,8 @@
 
 #### I'm Sanghyun Park
 
-- I'm an undergraduate student majoring Computer Science in CNU.
-- I'll be an M.S. student @ KAIST SoC starting from 2023 Spring.
+- I'm an M.S. student @KAIST SoC(School of Computing) interested in Fuzzing.
+- I've got my B.S. @CNU CSE(Computer Science & Engineering).
 
 
 <!-- ![hy38's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy38&show_icons=true) -->
