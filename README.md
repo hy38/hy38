@@ -3,7 +3,7 @@
 #### I'm Sanghyun Park
 
 - I'm an M.S. student @KAIST SoC(School of Computing) interested in Fuzzing and overall Software Security.
-- I've got my B.S. @CNU CSE(Computer Science & Engineering).
+- I've got my B.S. degree @CNU CSE(Computer Science & Engineering).
 
 
 <!-- ![hy38's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy38&show_icons=true) -->
