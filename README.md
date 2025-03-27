@@ -2,7 +2,7 @@
 
 #### I'm Sanghyun Park
 
-- I'm an M.S. student @KAIST SoC(School of Computing) interested in Fuzzing and overall Software Security.
+- I'm an M.S. graduate @KAIST SoC(School of Computing) interested in Fuzzing and overall Software Security.
 - I've got my B.S. degree @CNU CSE(Computer Science & Engineering).
 
 
